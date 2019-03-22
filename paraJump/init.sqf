@@ -1,4 +1,4 @@
-﻿if (!isNil "ace_interact_menu_fnc_createAction") then
+if (!isNil "ace_interact_menu_fnc_createAction") then
 {
   private _statement1 = {
     ugga_paraEH = player addEventHandler ["GetOutMan",{_this spawn compile preprocessFile "paraJump\EH.sqf";}];
