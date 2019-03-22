@@ -9,6 +9,6 @@
 
 ## Beschreibung
 <p>
-fügt Ace SelfInteractions hinzu, mit denem ein Spieler sich in einem Luftfahrzeug einhaken kann.
+  Ermöglicht es Spielern sich per ACE SelfInteraction in einem Luftfahrzeug einzuhaken.
   Eingehakte spieler werden automatisch in einen Fallschirm gemacht, wenn sie das Fahrzeug verlassen.
 </p>
